@@ -2,7 +2,9 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qnamaker-agwp5zhkwmstzgasdvbxxa.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Un système de questions-réponses basé sur la technologie RAG (Retrieval-Augmented Generation) qui vous permet de créer votre propre assistant IA à partir de vos documents personnels.
+
 **🔗 Application déployée: [QnA Maker](https://qnamaker-agwp5zhkwmstzgasdvbxxa.streamlit.app/)**
 ![Aperçu de l'application](./capture/cap.png)
 ## ✨ Fonctionnalités
