@@ -13,3 +13,4 @@ requests
 python-dotenv
 pyttsx3
 SpeechRecognition
+espeak-ng
