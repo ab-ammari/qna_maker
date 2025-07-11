@@ -10,7 +10,7 @@ from langchain.chains import LLMChain
 class LLMHandler:
     """Classe pour gérer les interactions avec le LLM via Groq."""
     
-    def __init__(self, api_key: str = None, model_name: str = "llama3-8b-8192"):
+    def __init__(self, api_key: str = None, model_name: str = "llama-4-scout-17b-16e-instruct"):
         """
         Initialise le gestionnaire LLM.
         
